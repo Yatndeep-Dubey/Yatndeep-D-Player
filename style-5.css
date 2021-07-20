@@ -10,8 +10,7 @@ body{
 	place-items: center;
 	min-height: 40vh;
   background-image: url("college.gif.png");
-background-repeat:no-repeat;
-background-size:contain
+background-size:contain;
 }
 .main{
      margin-bottom:180px;
